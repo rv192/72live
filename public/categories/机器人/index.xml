@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>机器人 on 72Live中文网</title>
+    <link>http://localhost:1313/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+    <description>Recent content in 机器人 on 72Live中文网</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 May 2025 12:21:26 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025.05.14 全球AI新闻速递</title>
+      <link>http://localhost:1313/tech_news/20250514/</link>
+      <pubDate>Wed, 14 May 2025 12:21:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tech_news/20250514/</guid>
+      <description>
+        
+          
+            &lt;p&gt;今日AI领域动态呈现多维度发展。技术巨头正加速将AI深度整合进核心产品，例如谷歌计划在Chrome浏览器和搜索中引入Gemini功能，“AI Mode”或取代“手气不错”按钮；OpenAI通过Deep Research功能加强模型的研究分析能力，并探索AI在医疗健康领域的应用，发布HealthBench基准测试。国内大模型厂商也在垂直领域深化布局，月之暗面悄然进军AI+医疗，越疆科技与腾讯云联手探索“云端大模型+边缘设备”一体化方案。同时，AI硬件创新不断，特斯拉展示擎天柱机器人新进展，Meta Ray-Ban眼镜集成AI功能并在印度预售，国产割草机器人公司却遭遇折戟，凸显技术落地与商业化的挑战。值得注意的是，AI应用伴随的安全风险亦受关注，新的攻击手段可利用AI代理的“记忆”窃取加密货币，安卓系统则升级反诈能力应对AI诈骗。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://36kr.com/p/3291039634585992&#34;&gt;氪星晚报 | 京东：第一季度营收3011亿元，同比增长15.8%&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;京东集团发布2025年一季度财报，营收达3011亿元人民币，同比增长15.8%，超出市场预期，创近三年最高增速。带电和日百品类收入均实现双位数增长。季度活跃用户数连续六个季度同比双位数增长，增速超20%。第三方商家成交用户数和订单量也保持同比双位数增长。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ithome.com/0/852/853.htm&#34;&gt;与车同源：特斯拉展示人形机器人擎天柱“跳舞”视频&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;特斯拉连续发布两段擎天柱（Optimus）人形机器人“跳舞”视频。据介绍，擎天柱的设计与特斯拉电动车共享部分技术，尤其是人工智能部分。通过优化“仿真到现实”训练代码和强化学习，机器人能力得以提升。特斯拉计划年底前将擎天柱部署到更多旗下工厂。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://36kr.com/p/3291224812681345?f=rss&#34;&gt;已和多家头部IP合作，这家AI陪伴机器人公司获数千万元A轮融资&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI+机器人公司“手滑科技”完成数千万元A轮融资，由杭州文广集团旗下基金领投。资金将用于AI大模型研发、硬件产线升级及全球化市场布局。公司从儿童陪伴机器人拓展至成人情感陪伴及AI可穿戴设备，与迪士尼、汤姆猫等IP合作，并通过自研微电子传感器与AI算法提升交互体验及成本控制。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://36kr.com/newsflashes/3291847420967302?f=rss&#34;&gt;越疆科技与腾讯云深化战略合作&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;越疆科技与腾讯云签署深化战略合作协议，将在智能算力、技术生态及场景落地方面合作。双方将联合打造面向制造业、零售、教育等领域的“&lt;strong&gt;云端大模型+边缘设备+机器人终端&lt;/strong&gt;”一体化解决方案，并在人工智能教育领域合作培养AI+具身智能人才。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ithome.com/0/852/854.htm&#34;&gt;通义千问 Qwen 免费上线 AI“深入研究”：十几分钟完成数小时任务&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;通义千问Qwen推出名为“Deep Research”（深入研究）的AI智能助理系统，免费对用户开放。该系统能规划复杂研究任务，综合海量在线信息，生成详细报告。通过融合Qwen的模型推理、Agent、长上下文窗口及强化学习能力，可大幅缩短研究时间，将数小时任务压缩至十几分钟。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://36kr.com/p/3290880683078790&#34;&gt;百川之后，Kimi悄然布局AI+医疗｜智能涌现独家&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;据报道，月之暗面正探索AI+医疗领域，旨在提升Kimi在专业领域的搜索质量并探索Agent方向。公司自2024年底组建医疗产品团队，招聘相关人才，构建知识库进行模型训练。布局仍早期，可能面向C端问诊或专业医生辅助工具，核心挑战在于医疗领域对准确性高要求及高质量数据稀缺。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://36kr.newsflashes/3291833541261447&#34;&gt;百度或将计划在欧洲推出无人驾驶计程车&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有报道称，百度正与瑞士邮政巴士公司POSTAUTO洽谈，计划在欧洲国家推出其APOLLO GO自动驾驶计程车服务。此举标志着百度智能驾驶业务或将寻求海外市场扩张。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ithome.com/0/852/881.htm&#34;&gt;Win11 / Win10 版谷歌 Chrome 浏览器确认将集成 Gemini AI 助手&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;谷歌确认将在Windows版Chrome浏览器中集成Gemini AI功能，名为“Gemini Live”。一份谷歌反垄断审判的幻灯片显示，这是将Google和个人AI智能体带入其最受欢迎平台的重要一步。幻灯片暗示2025年后会有更高级的功能推出，预示着Chrome与AI的深度整合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ithome.com/0/852/813.htm&#34;&gt;谷歌搜索加码 AI Mode，手气不错按钮恐被替代&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;谷歌正在测试调整搜索首页，可能用“&lt;strong&gt;AI Mode&lt;/strong&gt;”按钮替换经典的“手气不错”。“AI Mode”按钮紧邻或替代原按钮，部分测试中悬停时有旋转彩虹边框效果。谷歌已邀请部分美国用户在Google Labs环境测试不同设计方案，探索AI在搜索结果呈现方式上的新应用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://analyticsindiamag.com/global-tech/openai-wants-to-be-a-24-7-world-class-doctor-in-your-pocket/&#34;&gt;OpenAI Wants to be a ‘24/7 World-Class Doctor’ in Your Pocket&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI正积极进军医疗领域，发布&lt;strong&gt;HealthBench&lt;/strong&gt;基准测试，评估AI系统在健康对话中的表现。该基准由60国医生合作构建，包含5000个真实对话，并有定制评分标准。OpenAI测试显示其新模型表现迅速提升，甚至小型模型也能达到较高水平，有时比医生书面回复更优。尽管用户分享了AI辅助理解健康问题的案例，但专家强调AI仅是辅助，身体检查和专业医疗咨询仍不可或缺。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://analyticsindiamag.com/ai-trends/why-claude-is-losing-users/&#34;&gt;为何Claude正在失去用户&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic的Claude近期面临用户大量批评，许多用户在Reddit等平台表达沮丧，尤其是付费订阅者反映服务限制过多，即使付费后问题依然存在。用户认为免费工具如Google Gemini在某些任务（如编码）上表现更好。对每分钟Token限制和会话频繁中断的不满导致许多用户取消订阅。此外，用户抱怨Anthropic未能有效沟通速率限制变更。尽管如此，用户仍认为Claude在分析推理和写作方面有独到之处，但其目前的服务问题正在导致用户流失。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://analyticsindiamag.com/ai-news-updates/ray-ban-meta-glasses-with-ai-features-now-available-for-pre-order-in-india/&#34;&gt;Ray-Ban Meta Glasses with AI Features Now Available for Pre-order in India&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

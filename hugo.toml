@@ -1,0 +1,95 @@
+mainSections = ["post", "tech_news", "teen_news"]
+baseURL = 'https://72lives.netlify.app/'
+title = "72Live中文网"
+theme = 'hugo-clarity'
+defaultContentLanguage = "zh"
+languageCode = "zh-cn"
+
+# 开发服务器设置
+[server]
+  [[server.headers]]
+    for = "/**"
+  [server.watch]
+    delay = 1000
+    noReload = false
+  [[server.ports]]
+    action = "serve"
+    port = 1313
+    force = true
+
+# 主菜单配置
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = -110
+
+[[menu.main]]
+  name = "全球每日AI新闻速递"
+  url = "/tech_news/"
+  weight = -109 
+
+[[menu.main]]
+  name = "青少年新闻"
+  url = "/teen_news/"
+  weight = -108
+
+# [[menu.main]]
+#   parent = "teen_news"
+#   name = "1-3年级段"
+#   url = "/teen_news/early"
+
+# [[menu.main]]
+#   parent = "teen_news"
+#   name = "4-6年级段"
+#   url = "/teen_news/late"
+
+# [[menu.main]]
+#   parent = "teen_news"
+#   name = "初中段"
+#   url = "/teen_news/middle"
+
+# [[menu.main]]
+#   parent = "teen_news"
+#   name = "高中段"
+#   url = "/teen_news/high"
+
+[[menu.main]]
+  name = "关于"
+  url = "/about/"
+  weight = -107
+
+# 社交媒体链接
+[[menu.social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/rv192"
+
+[[menu.social]]
+  name = "rss"
+  weight = 4
+  url = "/index.xml"
+
+# 输出设置
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+# 分类设置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# 分页设置
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+toc = false
