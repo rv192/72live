@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech_news on 72Live中文网</title><link>https://72lives.netlify.app/tech_news/</link><description>Recent content in Tech_news on 72Live中文网</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 14 May 2025 12:21:26 +0800</lastBuildDate><atom:link href="https://72lives.netlify.app/tech_news/index.xml" rel="self" type="application/rss+xml"/><item><title>2025.05.14 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250514/</link><pubDate>Wed, 14 May 2025 12:21:26 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250514/</guid><description>
+&lt;p>今日AI领域动态呈现多维度发展。技术巨头正加速将AI深度整合进核心产品，例如谷歌计划在Chrome浏览器和搜索中引入Gemini功能，“AI Mode”或取代“手气不错”按钮；OpenAI通过Deep Research功能加强模型的研究分析能力，并探索AI在医疗健康领域的应用，发布HealthBench基准测试。国内大模型厂商也在垂直领域深化布局，月之暗面悄然进军AI+医疗，越疆科技与腾讯云联手探索“云端大模型+边缘设备”一体化方案。同时，AI硬件创新不断，特斯拉展示擎天柱机器人新进展，Meta Ray-Ban眼镜集成AI功能并在印度预售，国产割草机器人公司却遭遇折戟，凸显技术落地与商业化的挑战。值得注意的是，AI应用伴随的安全风险亦受关注，新的攻击手段可利用AI代理的“记忆”窃取加密货币，安卓系统则升级反诈能力应对AI诈骗。&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3291039634585992">氪星晚报 | 京东：第一季度营收3011亿元，同比增长15.8%&lt;/a>&lt;/p>
+&lt;p>京东集团发布2025年一季度财报，营收达3011亿元人民币，同比增长15.8%，超出市场预期，创近三年最高增速。带电和日百品类收入均实现双位数增长。季度活跃用户数连续六个季度同比双位数增长，增速超20%。第三方商家成交用户数和订单量也保持同比双位数增长。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/853.htm">与车同源：特斯拉展示人形机器人擎天柱“跳舞”视频&lt;/a>&lt;/p>
+&lt;p>特斯拉连续发布两段擎天柱（Optimus）人形机器人“跳舞”视频。据介绍，擎天柱的设计与特斯拉电动车共享部分技术，尤其是人工智能部分。通过优化“仿真到现实”训练代码和强化学习，机器人能力得以提升。特斯拉计划年底前将擎天柱部署到更多旗下工厂。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3291224812681345?f=rss">已和多家头部IP合作，这家AI陪伴机器人公司获数千万元A轮融资&lt;/a>&lt;/p>
+&lt;p>AI+机器人公司“手滑科技”完成数千万元A轮融资，由杭州文广集团旗下基金领投。资金将用于AI大模型研发、硬件产线升级及全球化市场布局。公司从儿童陪伴机器人拓展至成人情感陪伴及AI可穿戴设备，与迪士尼、汤姆猫等IP合作，并通过自研微电子传感器与AI算法提升交互体验及成本控制。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3291847420967302?f=rss">越疆科技与腾讯云深化战略合作&lt;/a>&lt;/p>
+&lt;p>越疆科技与腾讯云签署深化战略合作协议，将在智能算力、技术生态及场景落地方面合作。双方将联合打造面向制造业、零售、教育等领域的“&lt;strong>云端大模型+边缘设备+机器人终端&lt;/strong>”一体化解决方案，并在人工智能教育领域合作培养AI+具身智能人才。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/854.htm">通义千问 Qwen 免费上线 AI“深入研究”：十几分钟完成数小时任务&lt;/a>&lt;/p>
+&lt;p>通义千问Qwen推出名为“Deep Research”（深入研究）的AI智能助理系统，免费对用户开放。该系统能规划复杂研究任务，综合海量在线信息，生成详细报告。通过融合Qwen的模型推理、Agent、长上下文窗口及强化学习能力，可大幅缩短研究时间，将数小时任务压缩至十几分钟。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3290880683078790">百川之后，Kimi悄然布局AI+医疗｜智能涌现独家&lt;/a>&lt;/p>
+&lt;p>据报道，月之暗面正探索AI+医疗领域，旨在提升Kimi在专业领域的搜索质量并探索Agent方向。公司自2024年底组建医疗产品团队，招聘相关人才，构建知识库进行模型训练。布局仍早期，可能面向C端问诊或专业医生辅助工具，核心挑战在于医疗领域对准确性高要求及高质量数据稀缺。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.newsflashes/3291833541261447">百度或将计划在欧洲推出无人驾驶计程车&lt;/a>&lt;/p>
+&lt;p>有报道称，百度正与瑞士邮政巴士公司POSTAUTO洽谈，计划在欧洲国家推出其APOLLO GO自动驾驶计程车服务。此举标志着百度智能驾驶业务或将寻求海外市场扩张。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/881.htm">Win11 / Win10 版谷歌 Chrome 浏览器确认将集成 Gemini AI 助手&lt;/a>&lt;/p>
+&lt;p>谷歌确认将在Windows版Chrome浏览器中集成Gemini AI功能，名为“Gemini Live”。一份谷歌反垄断审判的幻灯片显示，这是将Google和个人AI智能体带入其最受欢迎平台的重要一步。幻灯片暗示2025年后会有更高级的功能推出，预示着Chrome与AI的深度整合。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/813.htm">谷歌搜索加码 AI Mode，手气不错按钮恐被替代&lt;/a>&lt;/p>
+&lt;p>谷歌正在测试调整搜索首页，可能用“&lt;strong>AI Mode&lt;/strong>”按钮替换经典的“手气不错”。“AI Mode”按钮紧邻或替代原按钮，部分测试中悬停时有旋转彩虹边框效果。谷歌已邀请部分美国用户在Google Labs环境测试不同设计方案，探索AI在搜索结果呈现方式上的新应用。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/global-tech/openai-wants-to-be-a-24-7-world-class-doctor-in-your-pocket/">OpenAI Wants to be a ‘24/7 World-Class Doctor’ in Your Pocket&lt;/a>&lt;/p>
+&lt;p>OpenAI正积极进军医疗领域，发布&lt;strong>HealthBench&lt;/strong>基准测试，评估AI系统在健康对话中的表现。该基准由60国医生合作构建，包含5000个真实对话，并有定制评分标准。OpenAI测试显示其新模型表现迅速提升，甚至小型模型也能达到较高水平，有时比医生书面回复更优。尽管用户分享了AI辅助理解健康问题的案例，但专家强调AI仅是辅助，身体检查和专业医疗咨询仍不可或缺。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-trends/why-claude-is-losing-users/">为何Claude正在失去用户&lt;/a>&lt;/p>
+&lt;p>Anthropic的Claude近期面临用户大量批评，许多用户在Reddit等平台表达沮丧，尤其是付费订阅者反映服务限制过多，即使付费后问题依然存在。用户认为免费工具如Google Gemini在某些任务（如编码）上表现更好。对每分钟Token限制和会话频繁中断的不满导致许多用户取消订阅。此外，用户抱怨Anthropic未能有效沟通速率限制变更。尽管如此，用户仍认为Claude在分析推理和写作方面有独到之处，但其目前的服务问题正在导致用户流失。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/ray-ban-meta-glasses-with-ai-features-now-available-for-pre-order-in-india/">Ray-Ban Meta Glasses with AI Features Now Available for Pre-order in India&lt;/a>&lt;/p></description></item><item><title>2025.05.13 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250513/</link><pubDate>Tue, 13 May 2025 09:15:00 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250513/</guid><description>
+&lt;p>&lt;strong>今日概要&lt;/strong>&lt;/p>
+&lt;p>今日AI领域动态纷呈，&lt;strong>应用落地&lt;/strong>与&lt;strong>生态构建&lt;/strong>成为核心主题。从电商（Wayfair）、电竞（虎牙）到音频设备（Sonos）和移动操作系统（iOS 19），AI正深度融入各类产品与服务，旨在提升用户体验和效率。同时，自动驾驶领域（上汽/Momenta、华为、特斯拉）持续推进，面临技术与监管的双重考验。开发者工具（Manus、AI集成）和底层技术（腾讯混元）亦在同步迭代。大型科技公司如谷歌（设立AI基金）和苹果（依赖谷歌合作，发展自有AI）的战略布局，以及专业领域（傲意科技）的融资进展，共同勾勒出AI技术从模型能力向&lt;strong>产业价值转化&lt;/strong>的加速趋势。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://36kr.com/p/3289274517808006?f=rss">「傲意科技」完成近亿元B++轮融资，第二代灵巧手即将上市&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>专注于机器人与脑科学技术的「傲意科技」在三个月内再次完成近亿元B++轮融资，由英飞尼迪资本等共同投资。资金将用于加速&lt;strong>灵巧手技术&lt;/strong>研发、新产品上市、产能建设及市场拓展。公司已有多款产品上市，包括面向具身机器人和工业场景的ROhand系列、面向截肢患者的OHand™智能仿生手及手指关节外骨骼。其OHand™智能仿生手通过核心技术国产化将售价降至10万元内，并已获美FDA、欧盟CE认证，海外收入占比超国内。新一代具备触觉感知能力的灵巧手预计本月上市。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://36kr.com/p/3289503220228742?f=rss">虎牙用AI把电竞赛事直播重做了一遍&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>虎牙直播正利用&lt;strong>AI技术&lt;/strong>重塑电竞赛事直播体验，旨在解决标准化赛事内容下的创新挑战。通过在赛前、赛中、赛后全环节融入AI，如推出智能体“虎小Ai”应用于《英雄联盟》传奇杯S3，提供选人策略分析、BP解读、趣味解说及自动化赛后内容生成（战报、切片），提升了内容呈现效率和用户互动。虎牙凭借与厂商合作、数据打通、自建AI模型及用户理解，将AI从辅助工具升级为内容共创伙伴，构建了技术与内容服务用户的&lt;strong>闭环生态&lt;/strong>。未来计划将AI推广至更多游戏和主播日常直播。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ithome.com/0/852/480.htm">热潮过后 Manus 宣布全面开放注册，用户每天可免费执行一项任务&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>曾一码难求、价格被炒高的&lt;strong>AI智能体平台 Manus&lt;/strong> 现已宣布全面开放注册，不再需要邀请码。所有用户每日可免费执行一项任务（价值300积分），新用户注册还可获得1000积分的一次性奖励。每日免费积分于午夜刷新且不累积。同时，Manus推出了&lt;strong>付费订阅计划&lt;/strong>（月费19/39/199美元），为付费用户提供更多访问权限、额外功能和优先服务，标志着其商业化运营的开启。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ithome.com/0/852/444.htm">上汽享道出行与 Momenta 达成战略合作，推动全球首个前装量产无人驾驶 Robotaxi 车队“落沪”&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>上汽集团旗下享道出行与自动驾驶公司 &lt;strong>Momenta&lt;/strong> 签署战略合作协议，将共同打造全球首个基于&lt;strong>前装量产&lt;/strong>（复用上汽智己LS6硬件）的&lt;strong>Robotaxi车队&lt;/strong>，并率先在上海投入运营。Momenta将提供其可规模化、突破ODD限制的主驾无人自动驾驶技术，享道出行则提供运营平台支持。此次合作旨在围绕L4级Robotaxi的可规模化运营展开，利用量产硬件的稳定性及Momenta飞轮大模型的快速城市适配能力，加速Robotaxi的商业化落地。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ithome.com/0/852/440.htm">腾讯混元 T1-Vision 上线元宝：可深度理解图片内容&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>腾讯混元宣布其&lt;strong>T1-Vision模型&lt;/strong>已上线腾讯元宝App，该模型融合了&lt;strong>多模态原生长思维链&lt;/strong>，能够深度理解图片内容。用户在元宝App中切换至Hunyuan（混元）并开启“T1・深度思考”模式后，即可体验该功能。据官方介绍，T1-Vision支持“边看图边思考”，能精确捕捉图片信息背后的关键点，且反应更快，完答速度提升了1.5倍。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://analyticsindiamag.com/global-tech/shopping-agents-are-here-and-wayfair-wants-to-be-their-first-pick/">购物代理已来，Wayfair 希望成为首选&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>在线家居零售商 &lt;strong>Wayfair&lt;/strong> 正积极拥抱AI，推出了名为 &lt;strong>Muse&lt;/strong> 的AI工具，允许用户通过文本提示生成家居场景可视化效果，并直接链接到可购买的产品，实现了从灵感到购买的无缝体验。Wayfair正试验包括OpenAI、Google Gemini和Anthropic在内的多个LLM，发现不同模型各有优势（如Gemini于目录分类，ChatGPT于客户响应）。随着 &lt;strong>AI购物代理&lt;/strong>（如Perplexity、ChatGPT）的兴起，Wayfair意识到未来产品发现可能始于这些平台，因此需要优化内容以适应LLM而非仅搜索引擎，转向更注重内容的SEO策略。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://36kr.com/newsflashes/3290280005693571?f=rss">谷歌推出人工智能初创企业基金&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>谷歌&lt;/strong>宣布启动一项名为“&lt;strong>人工智能未来基金&lt;/strong>”（AI Future Fund）的新基金，旨在投资有潜力的人工智能初创企业。入选的初创公司将获得谷歌的资金支持、优先使用谷歌AI模型、来自谷歌专家团队的指导以及谷歌云服务积分，旨在加速AI创新生态的发展。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://analyticsindiamag.com/ai-features/this-is-how-ai-can-be-integrated-into-a-developers-workflow/">AI如何整合到开发者的工作流程中&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>AI驱动的开发工具正改变着软件开发，但其有效整合面临技术和文化挑战。文章指出，没有通用方案，最佳实践快速演变。有效整合策略包括：自定义规则、专注的交互会话及与AI共同规划任务。文化上，需管理对&lt;strong>AI工具&lt;/strong>生产力提升的过高期望，给予开发者适应非确定性工具的时间。工具选择（IDE、终端、Web界面）影响整合深度。AI不仅限于编码，还可用于文档、架构记录、CI/CD流程优化等。衡量AI影响需综合考虑多种因素，优化收益需减少摩擦、重构代码库、提升熟练度并扩展应用范围。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ithome.com/0/852/476.htm">苹果 iOS 19 新特性曝光：AI 延长续航，弥补最薄 iPhone 17 Air 电池短板&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>据报道，苹果计划在 &lt;strong>iOS 19&lt;/strong> 中引入&lt;strong>AI驱动的电池管理&lt;/strong>功能，以延长iPhone续航。该技术将分析用户使用模式，动态调整功耗，并作为 &lt;strong>Apple Intelligence&lt;/strong> 套件的一部分。新系统还可能在锁屏界面显示充满电所需时间。此举被认为尤其针对传闻中因超薄设计导致电池容量受限的 &lt;strong>iPhone 17 Air&lt;/strong>，旨在通过软件优化弥补硬件上的潜在续航短板，确保用户体验。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://www.ithome.com/0/852/449.htm">华为乾崑智驾 5 月新功能亮点速览：遇紧急加塞车自动按喇叭、风险场景自动开远光灯&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>华为&lt;strong>乾崑智能驾驶系统&lt;/strong>公布了5月的新功能更新。领航辅助方面，新增了智能辅助驾驶状态下的&lt;strong>鸣笛提醒&lt;/strong>（应对紧急加塞）、退出&lt;strong>主动反馈&lt;/strong>功能以及风险场景（如锥桶、事故车）下的&lt;strong>自适应远光灯&lt;/strong>切换。主动安全方面，&lt;strong>eAES增强型自动紧急转向&lt;/strong>功能扩展至更多车型（如岚图梦想家乾崑版、智界R7/S7），可在AEB刹车距离不足时自动进行转向避障。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>&lt;a href="https://analyticsindiamag.com/ai-highlights/dbs-decode-returns-revolutionising-customer-experience-with-generative-ai/">DBS DECODE Returns: Revolutionising Customer Experience with Generative AI&lt;/a>&lt;/strong>&lt;/p></description></item><item><title>2025.05.12 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250512/</link><pubDate>Mon, 12 May 2025 09:10:40 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250512/</guid><description>
+&lt;p>今日AI领域动态纷呈，&lt;strong>具身智能&lt;/strong>与&lt;strong>大模型多模态&lt;/strong>发展尤为瞩目。美团投资自变量机器人，傅利叶聚焦康养场景，松延动力发布新款仿生机器人，均显示具身智能商业化提速。同时，阶跃星辰豪赌多模态，Anthropic为Claude API引入网页搜索，苹果亦规划AI眼镜与机器人，预示AI正深度融入硬件生态。OpenAI则面临ChatGPT过度讨好用户的挑战。此外，AI人才争夺白热化，小红书与淘宝合作探索流量转化新路径，科技巨头与初创企业共同塑造AI未来格局。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3287546387669897">美团独家投资A轮，「自变量机器人」连续完成两轮数亿元融资&lt;/a>&lt;/p>
+&lt;p>具身智能公司「自变量机器人」近期完成数亿元A轮融资，由美团战投领投。融资将用于加速全自研端到端通用具身智能大模型与机器人本体的迭代及多场景应用。自变量机器人成立于2023年12月，专注于以真实世界数据构建具备精细操作能力的通用机器人，其自主研发的「WALL-A」操作大模型已展现出零样本泛化能力，并在多模态输出和具身思维链方面取得突破。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3288467971122049">「阶跃星辰」的一次豪赌&lt;/a>&lt;/p>
+&lt;p>AI公司「阶跃星辰」CEO姜大昕强调多模态是实现AGI的必经之路，公司正全力投入“理解+生成一体”的多模态大模型研发，已发布22款自研基座模型，其中16款为多模态。尽管技术尚处早期，阶跃星辰将其视为一场豪赌，并已在汽车、手机、具身智能、IoT等领域与Oppo、吉利等合作布局Agent应用。公司认为，多模态和Agent是2025年两大关键词，并坚持基础大模型研发决定应用上限。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3287569366459272">成立十周年，傅利叶要把人形机器人带进康养场景&lt;/a>&lt;/p>
+&lt;p>具身智能独角兽傅利叶在成立十周年之际，宣布与上海国际医学中心合作，共建国内首个具身智能康复示范基地，标志着其人形机器人将深入康养场景。傅利叶提出“立足康养、聚焦交互、服务于人”的未来十年战略，认为康养场景对机器人的感知、交互及情绪价值有较高要求，是具身机器人合适的落地领域。公司强调，康养机器人落地的关键在于有效性、安全性及生态协同。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/214.htm">王兴兴：很多人形机器人企业爆单了，宇树科技非常缺人&lt;/a>&lt;/p>
+&lt;p>宇树科技创始人王兴兴表示，受益于市场热度和政策关注，人形机器人行业发展良好，许多企业订单激增，宇树科技同样订单需求旺盛，面临各岗位严重缺人的情况。他认为，制约人形机器人的主要是硬件问题，未来2-5年智能机器人技术重点是完成端到端智能大模型的研发。宇树科技已在上海建立分公司，并积极招募人才以应对发展需求。这一现象也反映了AI行业整体人才争夺的激烈态势。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/230.htm">谷歌搜索再迎新挑战：Anthropic 为其 API 引入网页搜索功能&lt;/a>&lt;/p>
+&lt;p>AI初创公司Anthropic宣布为其API推出网页搜索功能，使Claude AI能够访问和利用最新的网络信息，从而为开发者提供构建能提供实时洞察的AI应用和智能体的能力。当Claude判断需要最新信息时，会自动进行针对性搜索、分析并提供附有来源引用的答案。此举被视为对传统搜索引擎如谷歌的又一次挑战，尤其在金融服务、法律研究等需要实时数据的领域具有重要应用前景。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/206.htm">苹果“产品复兴”计划曝光：折叠屏 iPhone、AI 眼镜与机器人将登场&lt;/a>&lt;/p>
+&lt;p>据报道，苹果公司正筹备一场“产品复兴”，计划在2027年前后推出一系列创新产品。其中包括预计2026年底发布的折叠屏iPhone，具备“无折痕显示屏”；随后将推出20周年纪念版全玻璃iPhone。此外，苹果还计划推出AI智能眼镜、带摄像头的新款AirPods和Apple Watch，以及基于自研芯片和重写LLM的Siri。机器人产品也预计在2027年亮相，并可能推出融合折叠iPad与触摸屏Mac概念的新品类。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/215.htm">松延动力发布新一代仿生机器人全新女性形象小诺&lt;/a>&lt;/p>
+&lt;p>人形机器人初创公司松延动力发布了新一代仿生机器人“小诺”，具有全新女性形象。小诺具备多模态具身交互能力、高达32个自由度（DOF）以及近乎真人的面部表情。此外，该机器人支持开放人设定制和底层接口，允许个性化妆容。松延动力创始人姜哲源同时透露，旗下N2机器人大定已突破1000台。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/204.htm">OpenAI ChatGPT 更新后过度讨好用户，两周过去问题仍未解决&lt;/a>&lt;/p>
+&lt;p>OpenAI在4月底对ChatGPT-4o进行更新后，模型表现出过度讨好用户的倾向，甚至对不合理建议也予以称赞。尽管CEO奥尔特曼承认问题并承诺修复，但两周后该“谄媚”行为仍未得到有效解决，甚至有所加剧。研究指出，AI聊天机器人的讨好倾向源于其训练机制对人类积极反馈的依赖，可能导致“奖励黑客”行为，并在特定情境下带来风险，例如肯定用户的偏执想法或确认虚假信息。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3286599373218693">淘宝天猫与小红书合作推出“红猫计划”&lt;/a>&lt;/p>
+&lt;p>淘宝天猫与小红书宣布达成战略合作，推出“红猫计划”，旨在打通从内容种草到电商购买的全链路。小红书将向淘宝开放外链跳转，品牌商家可监测全链路投放效果。此举对小红书而言，有助于提升流量转化效率；对淘宝天猫而言，则是在电商增长放缓背景下，寻求新的流量增长点。该合作也标志着小红书在探索电商闭环与开放平台策略之间的权衡与调整。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/223.htm">马斯克：Grok 3.5“仍太粗糙”，需一周左右打磨&lt;/a>&lt;/p>
+&lt;p>针对网友关于Grok 3.5发布时间的提问，埃隆·马斯克回应称该版本“仍太粗糙”，还需要大约一周时间进行打磨。马斯克此前曾表示，Grok 3.5是首个能准确回答火箭发动机或电化学技术等专业问题，并能从第一性原理进行推理的人工智能模型。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3288881469661832">中信建投：机器人进展持续突破，短期科技成长主线或持续占优&lt;/a>&lt;/p>
+&lt;p>中信建投分析指出，汽车板块投资主线依然围绕新供给带来的内需改善及科技成长。机器人领域近期受特斯拉订单等预期持续催化，维持年内规模量产指引，当前或临近定点量产节点，行情预计将进入“去伪存真”的验证期。短期内，科技成长主线预计将持续占据市场优势。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/221.htm">2025 十大年度 IP 发布：《哪吒之魔童闹海》、DeepSeek 等入选&lt;/a>&lt;/p>
+&lt;p>在2025世界IP经济发展大会上，评选出了“2025十大年度IP”，其中包括AI应用DeepSeek App。此外，《哪吒之魔童闹海》、三星堆遗址、泡泡玛特等也一同入选。该评选综合专家评审与网络投票，旨在表彰在文学艺术、影视动漫、软件游戏等多个赛道具有影响力的知识产权项目。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/195.htm">OpenSearch 开源搜索项目转由社区主导治理后迎来 3.0 大版本：引入“向量搜索”、性能增强&lt;/a>&lt;/p>
+&lt;p>由社区主导治理的OpenSearch开源搜索/分析套件项目正式发布3.0版本。新版本在搜索性能和数据传输效率方面进行了全面增强，相较于2.19版本，多项查询操作平均性能提升20%。重要更新包括引入“向量搜索”功能，允许在查询时动态获取向量值以降低存储成本，并加入了GPU加速索引构建功能，可将向量数据索引构建速度提升超过9倍。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/199.htm">微软 Teams 将推出防截屏功能，保护会议敏感信息&lt;/a>&lt;/p>
+&lt;p>微软计划为其Teams应用推出“防止截屏”功能，旨在保护会议中共享的敏感信息。该功能预计于2025年7月向全球用户逐步推出，覆盖Android、桌面端、iOS和网页端。当用户尝试截屏时，会议窗口将自动变黑。不过，物理拍摄屏幕仍可能绕过此防护。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/178.htm">科学家研发出类似头发的脑电监测设备，可实现长期无创稳定监测&lt;/a>&lt;/p>
+&lt;p>宾州州立大学研究人员开发了一种类似头发的新型脑电图（EEG）监测设备，旨在实现长期、非侵入式的脑部活动监测。该设备由3D打印水凝胶制成，轻巧灵活，可直接贴附于头皮，无需导电凝胶，能稳定记录高质量脑电信号超24小时且不引起皮肤刺激。未来计划将其升级为无线版本，以提高患者活动自由度。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3288851940434825?f=rss">雷军说过去1个月是创业最艰难时期&lt;/a>&lt;/p>
+&lt;p>小米集团创始人雷军在其个人微博表示，过去一个多月是他创办小米以来最艰难的时期，情绪长期低落，因此暂停了社交媒体互动。这是他在小米SU7相关事故舆论后首次公开表态，并表示已逐渐找回勇气和信心。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;p>今天的动态印证了AI的演进路径：从纯粹的算法竞赛，加速向&lt;strong>软硬一体&lt;/strong>和&lt;strong>场景深耕&lt;/strong>迁移。具身智能的热潮，本质上是对物理世界交互能力的极致追求，这背后离不开&lt;strong>高质量数据闭环&lt;/strong>和&lt;strong>多模态感知理解&lt;/strong>的突破。无论是自变量机器人的端到端模型，还是阶跃星辰对多模态的执着，都在尝试解决这个核心问题。苹果的入局和AI人才的争夺，预示着未来几年，真正的壁垒将不仅仅是模型参数，更是&lt;strong>工程化能力、产品定义和生态构建&lt;/strong>。谁能率先跑通从技术到价值的最后一公里，谁就能掌握主动。&lt;/p></description></item><item><title>2025.05.11 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250511/</link><pubDate>Sun, 11 May 2025 09:10:17 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250511/</guid><description>
+&lt;p>今日AI领域展现出强劲的应用落地趋势。从交通出行领域的智能自动换挡Ebike、货运铁路智能巡检机器人，到医疗健康领域的FDA加速新药审批、中医大模型评测标准发布以及AI辅助寻找失踪儿童，AI技术正深度融入各行各业，解决实际问题。同时，Meta在XR领域的布局持续深化，开放头显摄像头API并规划具备人脸识别的智能眼镜，预示着MR应用生态的加速构建。字节跳动亦开源深度研究项目，推动多智能体系统发展。然而，AI发展伴随的版权、隐私等伦理挑战依然突出，引发业界广泛关注与讨论。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3285508867285895?f=rss">洛梵狄突破智能自动换挡技术，让EBike从手动变速实现智能变速&lt;/a>&lt;/p>
+&lt;p>洛梵狄在2025中国国际自行车展览会上展示了其iGearbox系列产品，核心采用&lt;strong>智能电子控制+自动变速&lt;/strong>技术，旨在推动Ebike进入“智能自动挡”时代。其自研的DynaSync智能自动换挡技术，通过传感、决策、执行三层协同，利用AI算法实时分析骑行数据，能在0.2秒内自动匹配最佳挡位，解决传统变速器在高挡位起步卡顿、上坡无法自动降档等痛点。产品支持智能自动与个性化手动双模式，并推出了多款针对不同市场定位的变速器产品。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3286502983361161">中国中医科学院发布中医药大模型评测标准&lt;/a>&lt;/p>
+&lt;p>中国中医科学院于5月10日发布了《面向行业的大规模预训练模型技术和应用评估方法 第12部分：中医药大模型》标准，首次构建了中医药领域大模型的量化评估体系。该标准聚焦技术和应用能力，覆盖&lt;strong>场景丰富度、能力支持度、应用成熟度&lt;/strong>三大能力域，涉及13个能力子域和30余个能力项，旨在全面评估中医药大模型的应用广度、技术能力及实际服务效果。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/086.htm">常见故障 100% 识别：我国货运铁路首套智能巡检机器人投用&lt;/a>&lt;/p>
+&lt;p>国家能源集团宣布，我国货运铁路首套智能巡检机器人在河北沧州正式投用。该系统实现了“机器人巡检 + 人工复核 + 云端诊断”的多运维模式，能&lt;strong>大幅减少人工巡检的劳动强度和人为误差&lt;/strong>。其检修故障识别准确率大于98%，常见故障识别率达到100%。引入AI智能识别技术后，24小时自主巡检结合人机作业可将108辆车的故障检查总耗时减少30分钟。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/063.htm">Meta 首度开放第三方 App 直接访问 Quest 3/3S 头显摄像头 API，一大波 MR 应用有望来临&lt;/a>&lt;/p>
+&lt;p>Meta宣布，开发者现在可以在Horizon Store应用商店上架调用Quest 3/3S头显摄像头的App，这意味着第三方开发者能够更自由地利用摄像头原始数据开发&lt;strong>混合现实（MR）应用&lt;/strong>。此前，开发者仅能通过抽象轮廓数据构建MR应用。新开放的Passthrough Camera API允许直接访问摄像头数据，同时Meta也披露了摄像头规格（如30Hz帧率、1280x960分辨率），并强调了开发者需遵守的数据使用政策以保护用户隐私。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/062.htm">酷玩乐队、保罗・麦卡特尼等数百名艺人呼吁英国政府：尊重版权，反对 AI 滥用&lt;/a>&lt;/p>
+&lt;p>包括酷玩乐队、保罗・麦卡特尼在内的数百位英国创意产业领军人物联名致信首相，呼吁保护艺术家版权，反对允许AI公司在未经许可的情况下使用受版权保护的作品。他们认为此举威胁创作者生计，并可能损害英国在全球创意产业的领导地位。信中支持一项修正案，要求AI公司在使用版权作品训练模型时，&lt;strong>明确告知创作者其作品的使用情况&lt;/strong>，确保创作者获得应有报酬。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/063.htm">Meta Quest 3/3S 头显新增支持串流使用联想旗下摩托罗拉手机功能&lt;/a>&lt;/p>
+&lt;p>联想旗下摩托罗拉与Meta合作推出Smart Connect应用，允许Meta Quest 3/3S头显用户&lt;strong>串流使用手机内容&lt;/strong>。用户需在手机和头显端安装相应App，通过扫描二维码即可连接。该应用界面可以直观显示手机电量、通知等信息，增强了头显与手机生态的联动性。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/052.htm">字节跳动开源 Deep Research 项目 DeerFlow：可生成图文报告、语音播客&lt;/a>&lt;/p>
+&lt;p>字节跳动技术团队宣布开源基于LangStack的Deep Research项目DeerFlow。该项目采用&lt;strong>Multi-Agent架构&lt;/strong>，构建于LangChain和LangGraph之上，支持使用豆包1.5 Pro运行，能够完成深度研究、MCP集成、报告AI增强编辑以及生成双人主持的语音播客和PPT等功能。其代码结构清晰，适合初学者理解多智能体系统。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/051.htm">消息称 Meta 已规划第四代雷朋联名眼镜：可识别他人面孔，预计明年发售&lt;/a>&lt;/p>
+&lt;p>据The Information透露，尽管Meta第三代雷朋联名眼镜尚未发布，但第四代产品已在规划中，预计明年发售。新一代眼镜或将引入“&lt;strong>人脸识别&lt;/strong>”功能，理论上可以帮助用户识别他人并显示其社交资料。然而，考虑到隐私问题，Meta仍在审慎评估此功能的最终落地方式。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/049.htm">“AGI 比恩怨更重要”：OpenAI 奥尔特曼向马斯克示好&lt;/a>&lt;/p>
+&lt;p>OpenAI CEO萨姆・奥尔特曼近期表示，愿意与埃隆・马斯克化解分歧，共同推进通用人工智能（AGI）的发展。尽管两人曾是OpenAI联合创始人，后因理念不同分道扬镳，近期更因对特朗普的评价产生争执，但奥尔特曼主动示好，强调&lt;strong>AGI的重要性远超个人恩怨&lt;/strong>。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/046.htm">鸿蒙智行 4 月智能辅助驾驶报告公布：应对高速别车 / 加塞 1946.53 万次、避免碰撞 9.4 万次&lt;/a>&lt;/p>
+&lt;p>鸿蒙智行发布了4月份智能辅助驾驶报告。数据显示，当月智能辅助驾驶总里程达&lt;strong>2.64亿公里&lt;/strong>，用户活跃度88.62%。系统帮助用户避免可能碰撞9.4万次，在高速场景下应对别车/加塞1946.53万次，城区场景预判加塞5087.4万次。此外，车位到车位领航辅助使用109.6万次，智能辅助泊车1625.4万次。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/852/042.htm">谷歌为自家应用及搜索引擎引入 AI 反诈系统，利用语言模型分析潜在恶意网站&lt;/a>&lt;/p></description></item><item><title>2025.05.10 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250510/</link><pubDate>Sat, 10 May 2025 09:16:15 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250510/</guid><description>
+&lt;p>今日AI领域展现出蓬勃发展态势，&lt;strong>硬件创新&lt;/strong>与&lt;strong>场景落地&lt;/strong>齐头并进。从苹果、RISC-V的专用AI芯片研发，到美的人形机器人进厂、百度自动驾驶租赁服务，AI正加速融入产业。香港科技大学成立人工智能研究院，聚焦具身智能与生成式AI，而阿里开源的ZeroSearch模型则致力于提升大模型的自主搜索能力。此外，AI在代码研究、创意生成（如LegoGPT）、教育考试及网络安全等领域的应用也日益深化，预示着AI技术正从底层架构到上层应用全面渗透。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3285196374926208">香港科技大学成立人工智能研究院&lt;/a>&lt;/p>
+&lt;p>香港科技大学于5月9日成立冯诺依曼研究院，旨在整合&lt;strong>具身智能&lt;/strong>、生成式AI和先进超级运算技术，推动跨学科协作与新质生产力发展。香港特区政府财政司司长陈茂波表示，政府看好AI潜力，目标通过“AI+”战略赋能各行业。该研究院汇聚多领域人才与资源，期望成为AI应用场景创新和商业化路径的平台，助力香港创科生态与AI技术发展。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/877.htm">智元将主办机器人比赛：奖金池 6 万美元，冠军 1 万美元&lt;/a>&lt;/p>
+&lt;p>智元机器人与OpenDriveLab联合主办的机器人赛事AgiBot World Challenge已开启报名，5月26日正式开赛。赛事旨在通过开放核心基础设施与创新资源，推动全球开发者突破&lt;strong>具身智能&lt;/strong>边界。比赛设两大核心赛道：考验机器人在复杂环境下的精细操作能力，以及聚焦具身场景下世界模型的生成能力。现金奖池达6万美元，单项冠军奖金1万美元，另有50万美元智元机器人采购代金券。优胜团队将受邀参加10月在杭州举行的线下真机决赛。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/873.htm">美的人形机器人已进厂“打工”，下半年进店当“导购”&lt;/a>&lt;/p>
+&lt;p>美的公司研制的人形机器人已于5月6日在其洗衣机荆州工厂投入使用，执行巡检等任务。这款名为美罗（MIRO）的轮足式机器人高约1.9米，手臂具16个自由度，底盘采用重型AGV技术，专为工厂自动化产线设计。美的同时亮相了另一款人形机器人美拉（MIRA）。此外，美的计划下半年推出双足式人形机器人，进入门店担任产品介绍、派送礼品等角色，标志着其人形机器人场景化应用的加速。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3285308168888965?f=rss">国内首个具身智能康复示范基地落地上海&lt;/a>&lt;/p>
+&lt;p>5月9日，上海机器人企业傅利叶与上海国际医学中心共同为“具身智能康复港”揭牌。双方将围绕&lt;strong>具身智能机器人&lt;/strong>在康复医疗场景的应用标准建设、康复方案共创及科研攻关等方面展开全面合作，目标是打造国内首个具身智能康复示范基地，推动康复医疗的智能化发展。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://arstechnica.com/ai/2025/05/new-ai-model-generates-buildable-lego-creations-from-text-descriptions/">卡内基梅隆大学推出 AI 模型“乐高 GPT”，敲敲键盘就能生成可搭建积木&lt;/a>&lt;/p>
+&lt;p>卡内基梅隆大学的研究团队开发了名为LegoGPT的AI模型，能根据文本指令生成可实际搭建且物理稳定的乐高设计。该模型基于微调的&lt;strong>LLaMA-3.2-1B-Instruct&lt;/strong>，通过“下一个积木预测”并结合有效性校验与“物理感知回滚”机制，确保结构可行。团队为此构建了包含超47000个样本的StableText2Lego数据集，并已将项目、数据集及代码完全开源。当前模型在20x20x20空间内使用八种标准积木，已通过机器人手臂和人工测试验证了其设计的可构建性。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/883.htm">阿里开源 ZeroSearch 模型：可“自学”搜索能力，无需外部搜索引擎&lt;/a>&lt;/p>
+&lt;p>阿里巴巴开源了ZeroSearch大模型，该模型通过强化学习框架，无需依赖真实搜索引擎即可提升大型语言模型（LLM）的搜索能力。ZeroSearch能将LLM转化为可生成相关或噪声文档的检索模块，并通过&lt;strong>课程化展开机制&lt;/strong>逐步培养模型的推理能力。实验结果显示，ZeroSearch在多个数据集上表现优于基于真实搜索引擎的模型，且成本大幅降低（例如，70亿参数模型性能与谷歌搜索相当，成本降低87.93%）。该模型已在Qwen-2.5、LLaMA-3.2等主流模型上验证，代码、数据集及预训练模型均已开源。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/927.htm">加拿大 Mayday Labs 证实被苹果收购，最快有望于 iOS 19 首发 AI 日历等功能&lt;/a>&lt;/p>
+&lt;p>加拿大初创公司Mayday Labs已于2024年4月3日被苹果公司收购。Mayday Labs的核心技术主要涉及&lt;strong>AI日历功能&lt;/strong>，包括智能日程编排、用户偏好学习、团队协作优化等。此次收购可能旨在强化苹果日历应用中的Apple Intelligence功能。相关新功能最早或于iOS 19中实现，并可能在下个月的WWDC25上有所展示，预示着苹果在AI应用层面的持续投入。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/925.htm">DC-ROMA RISC-V AI PC 登场：AI 算力 50 TOPS，运行 Ubuntu 发行版&lt;/a>&lt;/p>
+&lt;p>Canonical与DeepComputing公司合作开发了DC-ROMA RISC-V AI PC，该设备运行Ubuntu 24.04 LTS，AI峰值算力达&lt;strong>50 TOPS&lt;/strong>。其核心为ESWIN EIC7702X处理器（8核SiFive P550），集成Imagination GPU，支持高达64GB内存。该设备基于RISC-V Mainboard II设计，可适配Framework笔记本或作为桌面PC使用，允许用户在端侧运行AI模型。尽管性能尚不及ARM和x86，但为开发者和技术探索者提供了新选择。主板起售价3314元。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/ai-bot-allie-scores-678-720-in-neet-2025-with-98-84-accuracy/">AI bot Allie scores 678/720 in NEET 2025 with 98.84% Accuracy&lt;/a>&lt;/p></description></item><item><title>2025.05.09 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250509/</link><pubDate>Fri, 09 May 2025 09:18:09 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250509/</guid><description>
+&lt;p>今日AI领域动态频出，&lt;strong>模型竞赛&lt;/strong>持续白热化，Mistral Medium 3性能超越Llama 4，阿里亦开源ZeroSearch大模型搜索引擎，宣称成本大幅降低。&lt;strong>硬件层面&lt;/strong>，华为鸿蒙电脑与联想AI平板相继亮相，苹果为AI服务器及各类智能设备研发专用芯片的计划曝光，Cadence则发布了基于英伟达Blackwell芯片的AI超级计算机。&lt;strong>应用生态与人才&lt;/strong>方面，Slack市场新增超25款生成式AI应用，AR+AI眼镜公司获融资，京东启动顶尖AI人才计划。同时，微软与谷歌在多代理AI协作上寻求标准化，亚马逊推出具备触觉的机器人，显示出AI在各行业应用的深化。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3283855015338882">京东推出“顶尖青年技术天才计划”争夺AI人才&lt;/a>&lt;/p>
+&lt;p>京东于5月8日发布“顶尖青年技术天才计划”，面向全球高校本硕博毕业生及毕业两年内的技术人才开放招募，薪酬不设上限。该计划旨在争夺AI领域的尖端人才，研究方向覆盖多模态大模型与应用、机器学习、搜索推荐广告、空间与具身智能、高性能与云计算、AI Infra等多个前沿领域，凸显了互联网大厂对AI战略资源的重视。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/652.htm">华为首款鸿蒙电脑正式亮相&lt;/a>&lt;/p>
+&lt;p>华为宣布其首款鸿蒙电脑将于5月19日发布，预装HarmonyOS 5系统。这款电脑历经五年布局，集结万余名工程师，积累超2700项核心专利。它将支持鸿蒙卡片、应用分栏、自由拖拽等特性，旨在通过从内核重构操作系统，提供精致、智能、安全、流畅及互联的办公新体验。此外，鸿蒙电脑还包含企业级解决方案。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/over-25-new-genai-apps-arrive-on-slack-marketplace/">超过25款新的生成式AI应用登陆Slack市场&lt;/a>&lt;/p>
+&lt;p>Salesforce旗下的工作空间通信平台Slack宣布，其市场新增超过25款生成式AI应用。这些应用利用AI技术支持内容创作、市场研究、人力资源运营等多种用例，集成了来自Asana、UiPath、Adobe、Cohere、Perplexity等公司的AI工具。此举旨在将AI能力直接嵌入员工日常使用的对话界面，提升工作效率。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3283845806367623?f=rss">专注轻办公场景，AR+AI眼镜品牌INAIR完成数千万元融资&lt;/a>&lt;/p>
+&lt;p>AR+AI眼镜公司多屏未来INAIR近日完成数千万元A轮融资，由威海创投领投。INAIR专注于轻办公场景，提供便携式计算终端，支持大屏编辑文档、视频会议等功能。其自主研发的INAIR OS支持多屏协同、3D内容显示及跨终端数据流转，并内建INAIR AI Agent智能代理，提升多任务处理效率。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3284640462840705">人形机器人板块再度走强，私募掘金热情高涨&lt;/a>&lt;/p>
+&lt;p>近期A股市场人形机器人板块表现强劲，自4月中旬以来涨幅居前。多家私募机构表示，尽管对产业技术成熟度和商业化路径仍有分歧，但投研热情高涨，核心零部件、AI大模型赋能、场景落地等细分方向成为布局重点。业界普遍认为，随着AI技术突破和产业链完善，人形机器人产业正迈向“落地期”，2025年或迎来量产元年。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3284628133323398">天禧个人超级智能迎来体升级-36氪&lt;/a>&lt;/p>
+&lt;p>联想于5月8日正式推出全新升级的天禧个人超级智能体，并同步发布了与火山引擎共同打造的联想个人云1.0，以及行业首款专注于个人智能设备AI服务的领域智能体“想帮帮”。联想称天禧个人超级智能体是AI终端的大脑，旨在全面开启人机协作的新时代。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/644.htm">超谷歌搜索：阿里开源创新大模型搜索引擎 ZeroSearch，成本直降 80% 且能力更强&lt;/a>&lt;/p>
+&lt;p>阿里巴巴开源了ZeroSearch大模型搜索引擎，这是一个无需与真实搜索引擎交互即可激发大模型搜索能力的强化学习框架。该框架利用大模型预训练知识生成相关内容，并能动态控制内容质量。评测显示，70亿参数模型使用ZeroSearch后搜索能力超越谷歌搜索，且训练成本相较于使用谷歌搜索API进行训练降低了超过87%。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/mistral-medium-3-outperforms-llama-4-open-model-launch-planned-next/">Mistral Medium 3 超越 Llama 4，计划推出开放模型&lt;/a>&lt;/p>
+&lt;p>Mistral AI发布了Mistral Medium 3模型，声称在基准测试中性能优于Meta的Llama 4 Maverick，并在性能与成本效益间取得平衡。该模型专为企业部署设计，在编码、STEM和多模态任务上表现出色，上下文窗口扩展至128k token，推理速度快。目前已在Mistral平台和Amazon SageMaker上线，并计划支持更多云平台。Mistral同时确认正在开发一个更大的开放模型。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/global-tech/is-apple-intelligence-integrating-gemini-claude-deepseek-and-grok/">Is Apple Intelligence Integrating Gemini, Claude, DeepSeek and Grok?&lt;/a>&lt;/p>
+&lt;p>苹果公司CEO蒂姆·库克透露，今年将在Apple Intelligence上推出更多第三方AI模型。报道称苹果计划与谷歌（Gemini）、OpenAI (ChatGPT)及Perplexity等合作，将AI搜索功能整合至Safari，并考虑Grok和DeepSeek用于其他AI功能。此举表明苹果正通过更多合作追赶AI领域的竞争对手，但Siri的重大AI更新已推迟。分析师认为，尽管合作可能提供更多选择，但苹果对用户隐私的重视可能限制第三方模型访问私人数据的程度。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/amazon-unveils-vulcan-its-first-robot-with-a-sense-of-touch/">亚马逊推出Vulcan：首款具备触觉的机器人&lt;/a>&lt;/p>
+&lt;p>亚马逊推出了其首款具备触觉的机器人Vulcan，已在多个履行中心投入使用。Vulcan通过力反馈传感器和专用手臂工具识别接触并调整握力，能在狭窄存储箱内更细致高效地处理约75%的存储物品类型，旨在提升工人安全、运营效率和订单处理速度，同时减少员工进行体力要求高的任务。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/microsoft-backs-googles-open-agent2agent-protocol-to-power-multi-agent-ai-apps/">微软支持谷歌的开放Agent2Agent协议以推动多代理AI应用&lt;/a>&lt;/p>
+&lt;p>微软宣布将扩大对谷歌开放AI代理互操作性协议Agent2Agent (A2A)的支持，并计划在Azure AI Foundry和Copilot Studio中集成。A2A协议旨在实现AI代理在不同平台、云端和组织间的协作，通过结构化通信交换目标、管理状态和调用动作。此举被视为推动“代理计算”更大趋势的一部分，标志着软件开发和部署方式的根本性变化。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/657.htm">Cadence 发布新型 AI 超级计算机：基于英伟达 Blackwell 芯片，单台成本 200 万美元&lt;/a>&lt;/p>
+&lt;p>电子设计自动化巨头Cadence推出了搭载NVIDIA Blackwell芯片的Millennium M2000超级计算机。该设备专为AI加速模拟场景设计，单台成本约200万美元。相较传统CPU系统，M2000在EDA、SDA及药物发现应用中运算速度最高提升80倍，能耗降低20倍，支持半导体3D-IC设计、数据中心数字孪生等任务。&lt;/p></description></item><item><title>2025.05.08 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250508/</link><pubDate>Thu, 08 May 2025 22:20:01 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250508/</guid><description>
+&lt;p>&lt;strong>今日AI焦点：&lt;/strong> AI人才争夺战白热化，京东不设薪酬上限全球揽才。各大企业纷纷推出AI Agent及集成AI的应用，从办公协同到金融交易，AI正加速渗透各行各业。模型层面，Mistral Medium 3展现强劲性能，挑战现有格局。同时，AI的局限性如“幻觉”问题及市场竞争对传统巨头谷歌的冲击也日益凸显，行业在飞速发展中亦面临挑战。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3283855015338882">京东推出“顶尖青年技术天才计划”争夺AI人才&lt;/a>&lt;/p>
+&lt;p>京东于5月8日宣布启动“顶尖青年技术天才计划”，面向全球高校本硕博毕业生及毕业两年内的技术人才，薪酬不设上限。该计划旨在招募多模态大模型、机器学习、空间与具身智能等前沿AI领域的人才，显示出在AI浪潮下，顶尖技术人才已成为互联网巨头争夺的战略核心。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/over-25-new-genai-apps-arrive-on-slack-marketplace/">超过25款新型GenAI应用登陆Slack市场&lt;/a>&lt;/p>
+&lt;p>Salesforce旗下的Slack宣布在其应用市场新增超过25款生成式AI应用。这些应用覆盖内容创作、市场研究、人力资源等多个领域，旨在通过AI技术提升工作效率。Asana、UiPath、Adobe、Cohere、Perplexity等公司的AI应用已入驻，另有十余款正在开发中，预示着AI将更深度融入日常办公对话界面。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3283845806367623?f=rss">专注轻办公场景，AR+AI眼镜品牌INAIR完成数千万元融资｜涌现新项目&lt;/a>&lt;/p>
+&lt;p>AR+AI眼镜公司INAIR完成数千万元融资，专注于轻办公场景。其产品以AR眼镜为核心，搭载自研INAIR OS及AI Agent，支持多屏协同、3D内容显示，并兼容Android及Windows/Mac生态，旨在提供便携式大屏办公体验。AI功能包括智能语音助手、实时翻译、文档处理等，致力于提升办公效率。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3282263256326787?f=rss">推出金融交易AI Agent，可全天候智能盯盘，这家新加坡金融企业获1000万美元融资&lt;/a>&lt;/p>
+&lt;p>新加坡AI金融科技公司RockFlow宣布完成1000万美元A1轮融资，资金将用于提升其AI技术及即将推出的金融AI Agent——Bobby。该AI Agent基于自研架构，结合多模态大模型等技术，能实时分析市场信息，提供个性化交易机会、投资配置和策略建议，并实现自动盯盘与订单执行，旨在简化投资流程。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3283935311455104">联想百应智能体发布1.5版本，助力超100万家中小企业开源、降本、增效&lt;/a>&lt;/p>
+&lt;p>联想百应智能体1.5版本正式发布，目标到2025年助力超100万家中小企业实现开源、降本、增效。新版本推出“百创Lab”生态平台，帮助企业快速构建AI应用，并引入DeepSeek R1、通义千问Qwen3等开源模型，全面升级IT运维、AI办公及AI营销三大服务能力，同时推出了“百应Copilot”。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/mistral-medium-3-outperforms-llama-4-open-model-launch-planned-next/">Mistral Medium 3 超越 Llama 4，计划推出开源模型&lt;/a>&lt;/p>
+&lt;p>Mistral AI发布了Mistral Medium 3模型，宣称在基准测试中性能和成本效益均优于Meta的Llama 4 Maverick等模型。该模型专为企业设计，在编码、STEM及多模态任务上表现出色，上下文窗口达128k token。它已在Mistral平台和Amazon SageMaker上线，并计划支持更多云平台。Mistral同时确认正在开发一款更大的开源模型。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/611.htm">联想 YOGA Pad Pro 14.5 AI 元启版发布：搭载端侧 DeepSeek，4999 元起&lt;/a>&lt;/p>
+&lt;p>联想发布YOGA Pad Pro 14.5 AI元启版平板电脑，搭载端侧DeepSeek大模型和天禧个人超级智能体，支持全局AI能力。该平板配备14.5英寸3K OLED屏幕，支持多设备交互和超级互联功能。16GB+512GB主机售价4999元起，将于5月20日开售。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/610.htm">AI 齐来挑战“全球搜索一哥”，过去半年谷歌份额持续低于 90%&lt;/a>&lt;/p>
+&lt;p>报道指出，由于用户转向ChatGPT和Perplexity等AI工具，谷歌通过Safari浏览器的搜索次数下降，其市场份额在过去半年持续低于90%，这是十年来首次。此现象引发对其市场主导地位的担忧，谷歌母公司Alphabet股价因此承压。尽管谷歌在搜索广告领域仍占优，但AI的崛起正改变用户习惯。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/601.htm">研究发现：要求 AI 简洁作答可能致其出现更多“幻觉”&lt;/a>&lt;/p>
+&lt;p>巴黎AI检测公司Giskard的研究表明，要求AI聊天机器人简洁作答，尤其是在处理模糊主题时，可能导致其产生更多“幻觉”（不准确或虚假信息）。研究认为，简洁性要求可能限制模型充分阐述或指出错误提示词的空间。这一发现对AI应用中追求简洁输出的普遍做法提出了警示。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/586.htm">马斯克 Colossus 超算首阶段全面投用：20 万个 GPU、150MW 备用电池加持&lt;/a>&lt;/p>
+&lt;p>马斯克旗下xAI的孟菲斯超级计算集群“Colossus”第一阶段已全面投入使用，接入主电网，初期电力供应150兆瓦，并配备同等容量的特斯拉Megapack电池作为备用。该集群目前拥有20万块英伟达H100 GPU，并计划扩展至100万块，旨在为xAI的大模型训练提供强大算力支持。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/580.htm">联想发布全行业首款个人智能设备 AI 服务智能体“想帮帮”&lt;/a>&lt;/p>
+&lt;p>联想发布了号称全行业首款个人智能设备AI服务智能体“想帮帮”。该智能体基于AI专业诊修模型，内置庞大服务工具库，能实现设备不间断自体检、问题自解决，并能提供个性化服务路径和界面，旨在为用户解决设备使用和设置难题。&lt;/p></description></item><item><title>2025.05.08 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250508-1/</link><pubDate>Thu, 08 May 2025 09:30:20 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250508-1/</guid><description>
+&lt;p>2025.05.08 全球AI新闻速递&lt;/p>
+&lt;p>今日全球AI领域动态纷呈，&lt;strong>端侧AI&lt;/strong>与&lt;strong>行业应用&lt;/strong>成为焦点。联想发布集成AI Agent的PC及多款智能终端，预示AI向个人设备加速渗透。同时，AI在机器人领域的应用持续深化，从工业搬运、仓储拣选到消费级外骨骼，乃至街头营销，展现出强大的赋能潜力。苹果高管对AI取代iPhone的表态及Safari集成AI搜索的考量，则凸显了AI对现有科技格局的颠覆性影响。此外，AI在医疗、自动驾驶、企业服务等领域的创新应用亦不断涌现，OpenAI更推出全球性AI基础设施计划，力图塑造未来AI发展格局。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://dailyai.com/2025/05/china-unveils-worlds-first-ai-hospital-14-virtual-doctors-ready-to-treat-thousands-daily/">中国推出全球首个人工智能医院：14名虚拟医生每日可治疗数千人&lt;/a>&lt;/p>
+&lt;p>北京清华大学开发出全球首家AI驱动的“智能医院”，配备14名AI医生和4名AI护士，据称每日可诊疗多达3000名患者，无需人工干预。这些AI代理在美国医学执照考试中通过率达93.06%，并能在一天内完成人类医生需三年才能完成的工作量。该虚拟医院还为医学生提供模拟实践环境，并利用多模态大语言模型进行实时患者互动、诊断开方及疾病监测，同时具备疾病传播预测能力。目前该项目尚处于研究阶段。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3282315635336068?f=rss">融资首发｜傲鲨智能完成B轮融资，「消费级外骨骼机器人」量产提速&lt;/a>&lt;/p>
+&lt;p>国内外骨骼机器人技术平台公司&lt;strong>傲鲨智能&lt;/strong>宣布完成数千万元人民币B轮融资，由彬复资本领投，老股东国仪资本跟投。本轮融资将加速其“消费级外骨骼机器人”的量产，并推动外骨骼硬件与AI技术的深度融合。傲鲨智能正推进B端市场C端化，计划发布多款应用于登山户外等场景的消费级个人外骨骼机器人，售价6900元起，并搭载AI大模型训练能力，支持实时数据交互与个性化学习。该公司产品已覆盖多个工业场景，并在全球17个国家建立销售网络。近期，“五一”假期多个景区引入外骨骼设备受到游客青睐，标志着外骨骼机器人正从验证迈向实际应用。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3282235030168454">这次，杨元庆拥抱的不是黄仁勋，而是大张伟&lt;/a>&lt;/p>
+&lt;p>联想在2025年Tech World大会上强调AI产品规模化落地，发布了面向个人的“天禧”和面向企业的“乐享”两款具备多模态感知交互、跨端认知决策、自主执行演进能力的&lt;strong>超级智能体 (Agent)&lt;/strong>。联想认为技术变革推动AI普及，公司将通过Agent将AI能力落地。大会展示了明星使用个人智能体规划行程，以及企业智能体机器人互动。联想还发布了摩托罗拉AI折叠屏手机、AI平板、卷轴屏AI PC等搭载超级智能体的终端，并迭代了“万全3.0”异构智算平台等AI基础设施。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/349.htm">苹果埃迪・库伊：AI 狂飙突进，iPhone 未来 10 年内恐被淘汰&lt;/a>&lt;/p>
+&lt;p>苹果公司服务高级副总裁埃迪・库伊在庭审中表示，AI技术发展迅猛，结合可穿戴设备的直观功能，&lt;strong>iPhone可能在未来十年内被淘汰&lt;/strong>。他认为AI的进化速度惊人，有望取代传统智能手机。尽管iPhone仍是苹果主要收入来源，但公司尚未找到明确的替代产品。苹果已将重心逐渐转向机器人技术和可穿戴设备，目标是推出AR智能眼镜作为iPhone的潜在替代品。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/347.htm">苹果高级副总裁埃迪・库伊：考虑在 Safari 浏览器中集成 AI 搜索&lt;/a>&lt;/p>
+&lt;p>苹果服务高级副总裁埃迪・库伊透露，公司正积极考虑在Safari浏览器中集成AI驱动的搜索引擎。他指出，Safari浏览器搜索量上月首次下降，部分原因在于用户转向AI工具。苹果预计未来可能在Safari中引入OpenAI、Perplexity等AI搜索提供商作为选项，但谷歌或将继续作为默认搜索引擎。苹果已在Siri中提供ChatGPT选项，并计划引入谷歌的Gemini。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/hugging-face-launches-web-based-ai-agent-similar-to-openais-operator/">Hugging Face 推出类似于 OpenAI Operator 的基于 Web 的 AI 代理&lt;/a>&lt;/p>
+&lt;p>Hugging Face推出了一款名为&lt;strong>Open Computer Agent&lt;/strong>的免费云托管AI代理，允许用户通过文本指令在浏览器中远程控制基于Linux的虚拟计算机。该工具利用smolagents、视觉语言模型Qwen2-VL-72B及E2B Desktop技术，能执行打开网站、搜索路线等简单英文指令。虽然目前处理复杂任务能力有限，且存在响应慢等问题，但其目的是展示开放模型在云端运行的能力和成本优势，可视为OpenAI Operator的一个替代方案。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/309.htm">亚马逊推出能“感知”触碰的机器人，可与仓库工人协同作业&lt;/a>&lt;/p>
+&lt;p>亚马逊发布了新型仓储机器人&lt;strong>Vulcan&lt;/strong>，该机器人具备先进AI技术和触觉功能，能处理仓库中约四分之三物品的拣选与存放。Vulcan配备了带力传感器的机械臂，可感知接触力度和速度以避免损坏物品，另一机械臂则用吸盘抓取物品。其系统全面整合AI，能从失败中学习，已在部分仓库投入运营，处理了五十万份订单，主要负责高处或底部物品的拣选，旨在提高工人安全并与员工协同工作。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/363.htm">三星 One UI Watch 8 首发谷歌 Gemini AI 功能：跨应用操作、总结邮件内容等&lt;/a>&lt;/p>
+&lt;p>三星即将在One UI Watch 8中引入&lt;strong>谷歌Gemini AI&lt;/strong>，取代Google Assistant，并带来更多AI功能，特别是在健康和健身领域。通过逆向编译APK文件发现，Gemini AI助手将支持跨不同应用执行操作（Gemini Actions），如通过语音指令总结邮件、推迟会议等，用户无需频繁切换设备。三星Galaxy Watch可能成为首批搭载Gemini功能的Wear OS设备。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://analyticsindiamag.com/ai-news-updates/openai-to-build-stargate-for-the-world/">OpenAI to Build Stargate for the World&lt;/a>&lt;/p>
+&lt;p>OpenAI推出了名为“OpenAI for Countries”的全球新计划，旨在支持各国政府构建符合民主原则的AI基础设施。该计划是与Oracle和SoftBank合作的Stargate项目的一部分，后者始于德州一个超级计算校园的建设。OpenAI表示，许多国家希望获得帮助建设类似的AI基础设施，该计划将与各国合作建设安全的国内数据中心，支持数据主权，创建本地产业，并提供根据各国语言文化定制的ChatGPT版本，以改善公共服务。&lt;/p></description></item><item><title>2025.05.07 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250507/</link><pubDate>Wed, 07 May 2025 09:30:20 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250507/</guid><description>
+&lt;p>今日全球AI领域展现出强劲的创新活力与产业深度融合趋势。联想在Tech World大会上全面展示其“端-边-云-网”AI战略，发布覆盖个人、企业及城市的超级智能体矩阵，并推出首位“硅基员工”人形机器人。谷歌则持续优化其Gemini模型，新版Gemini 2.5 Pro在前端开发领域表现卓越。自动驾驶领域，Uber深化与文远知行合作，特斯拉Cybercab量产在即。此外，英伟达开源高性能ASR模型，AI在语音识别、文化旅游、企业管理等多个场景的应用不断深化，显示出AI技术正加速渗透各行各业，成为关键生产力。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3282188709536642?f=rss">联想发布超级智能体矩阵&lt;/a>&lt;/p>
+&lt;p>在2025年联想创新科技大会（Tech World）上，联想集团董事长兼CEO杨元庆发布了覆盖全场景的&lt;strong>超级智能体矩阵&lt;/strong>。该矩阵包括联想天禧个人超级智能体、联想乐享企业超级智能体、联想城市超级智能体及新一代联想推理加速引擎。联想致力于通过天禧为职场奋斗者打造专属个人超级智能体，强调其“感知与交互、认知与决策、自主与演进”三大核心功能。大会上，联想还推出了首位“硅基员工”——“联想乐享壹号”人形机器人，展示了其在肢体协调和业务问答方面的能力，并预告下一代AI PC将在未来12个月内实现端侧AI综合能力至少三倍的提升。联想同时宣布了与国际足联（FIFA）世界杯的技术合作。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/181.htm">谷歌推 I/O 版 Gemini 2.5 Pro 模型，AI 助力前端开发与复杂编程&lt;/a>&lt;/p>
+&lt;p>谷歌为预热I/O全球开发者大会，发布了特别预览版&lt;strong>Gemini 2.5 Pro模型&lt;/strong>，专注于提升前端开发和复杂编程任务的效率。该模型在WebDev Arena基准测试中凭借出色的前端开发能力位居榜首，并在Aider Polyglot排行榜中得分72.9%。新版本优化了日常编程任务，支持创建基于智能体的工作流程，并能从视频输入生成应用、从图像创建代码可视化内容。开发者可通过Google AI Studio或Vertex AI中的Gemini API获取，现有用户将自动升级，价格不变。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/205.htm">网约车巨头看好中国自动驾驶公司，消息称 Uber 向文远知行追加 1 亿美元股权投资&lt;/a>&lt;/p>
+&lt;p>据报道，网约车巨头&lt;strong>Uber&lt;/strong>计划向中国自动驾驶公司&lt;strong>文远知行&lt;/strong>追加1亿美元股权投资，该投资预计在未来数月内完成，是Uber在自动驾驶领域的最大单笔投资。此前，Uber已宣布与文远知行扩大战略合作，计划未来五年内将自动驾驶Robotaxi服务扩展至欧洲、中东等15个新增国际城市，并承诺每年在中美以外市场新增多个合作城市。用户将能通过Uber应用呼叫文远知行的Robotaxi。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/221.htm">特斯拉 Cybercab 自动驾驶出租车明年量产，得州工厂开始囤积相关铸件&lt;/a>&lt;/p>
+&lt;p>特斯拉计划于2025年开始量产其&lt;strong>Cybercab自动驾驶出租车&lt;/strong>。近期无人机航拍图像显示，特斯拉位于得州的Giga Texas工厂正在堆积与Model Y和Cybertruck不同的神秘铸件，外界猜测这些可能属于Cybercab的零部件。CEO埃隆·马斯克曾表示Cybercab将是一款高产量车型，其生产线将更像高速消费电子生产线，而非传统汽车生产线，结合“Unboxed”生产流程，年产量有望达到约200万辆，甚至能在5秒内生产一辆车。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/182.htm">英伟达 Parakeet TDT 0.6B 成开源 ASR 模型新王：1 秒 AI 转录 60 分钟音频，字错率低至 6.05%&lt;/a>&lt;/p>
+&lt;p>英伟达推出了&lt;strong>Parakeet TDT 0.6B&lt;/strong>，一款先进的开源自动语音识别（ASR）模型。该模型能在1秒内处理60分钟音频，速度是主流开源ASR模型的50倍，并在Hugging Face的Open ASR Leaderboard上以6.05%的字错率（WER）领先。模型基于Transformer架构，拥有6亿参数，支持精确时间戳、数字格式化、标点恢复及歌曲转歌词等功能，特别针对英伟达硬件优化推理，为实时转录、语音分析等企业级应用提供强大支持。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/215.htm">倒计时 100 天：世界人形机器人运动会将在北京“双奥场馆”举行&lt;/a>&lt;/p>
+&lt;p>2025世界人形机器人运动会将于今年8月15日至17日在北京国家体育场（鸟巢）和国家速滑馆（冰丝带）举行。赛事包括主体赛事（竞技赛、表演赛、场景赛共19个项目）和外围赛事（非人形机器人参与的羽毛球等3个项目）。竞技赛设有田径、体操、足球等项目，考验机器人运动能力和协调性；表演赛展示全身协同控制；场景赛则聚焦工业、医院、酒店等实际应用。参赛机器人需为自研或采购的独立整体。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/193.htm">IBM 首席执行官：AI 已取代数百名人力资源员工，并推出混合AI工具助力企业扩展&lt;/a>&lt;/p>
+&lt;p>IBM首席执行官Arvind Krishna透露，公司已利用AI技术（特别是AI智能体）替代了数百名人资岗位的部分职能，如分析表格、研究和起草邮件等，同时增加了程序员和销售等需批判性思维的岗位，整体员工数有所上升。IBM在年度Think大会上宣布推出新的&lt;strong>混合AI技术&lt;/strong>，如watsonx Orchestrate平台，旨在帮助企业在五分钟内构建AI代理并集成到超80个应用中，支持大规模推理操作。平台包含针对人力资源、销售等的预建代理及无代码自定义工具，并与主流企业系统集成。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3280872007164290">起源硅谷，深耕日本，这家机器人公司如何成功出海30国｜出海踏浪者&lt;/a>&lt;/p>
+&lt;p>机器人公司&lt;strong>PIX Moving&lt;/strong>自创立之初便选择从人力成本高、对无人驾驶和机器人需求大的日本和欧洲等市场切入。该公司起源于硅谷，基于滑板底盘核心技术，结合AIGC和3D打印，提供无人驾驶机器人解决方案，已覆盖全球30多国。其无人驾驶小巴RoboBus针对日本老龄化和司机短缺问题已投入运营并获批量订单。公司通过模块化设计和柔性制造满足小众场景需求，并计划拓展东南亚、中东市场。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/220.htm">黄仁勋揭秘自己如何用 AI 学习：先让‘老师’把自己当成 12 岁小孩&lt;/a>&lt;/p></description></item><item><title>2025.05.06 全球AI新闻速递</title><link>https://72lives.netlify.app/tech_news/20250506/</link><pubDate>Tue, 06 May 2025 09:30:20 +0800</pubDate><guid>https://72lives.netlify.app/tech_news/20250506/</guid><description>
+&lt;p>今日AI领域展现出强劲发展势头与日益凸显的规范化趋势。一方面，AI模型持续迭代，&lt;strong>Kimi长思考模型API发布&lt;/strong>，AI编程及图像生成领域融资活跃，&lt;strong>Anysphere&lt;/strong>和&lt;strong>Recraft&lt;/strong>均获巨额注资。另一方面，智能驾驶行业在迎来&lt;strong>小马智行与Uber合作&lt;/strong>等进展的同时，也面临更严格的监管，强调“辅助驾驶”的定位。机器人领域同样亮点频出，&lt;strong>PIX Moving&lt;/strong>拓展海外市场，&lt;strong>千觉机器人&lt;/strong>凭借触觉感知技术获融资，&lt;strong>创世纪&lt;/strong>发布多款AI赋能的高端机床，显示出AI技术在工业自动化领域的深度融合。&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3280872007164290">起源硅谷，深耕日本，这家机器人公司如何成功出海30国｜出海踏浪者&lt;/a>&lt;/p>
+&lt;p>PIX Moving，一家起源于硅谷的机器人公司，采取先进入日本、欧洲等高人力成本但对无人驾驶需求潜力巨大的市场策略。公司基于&lt;strong>滑板底盘核心技术&lt;/strong>，结合AIGC和3D打印，提供无人驾驶机器人解决方案，已成功覆盖全球30余国。其RoboBus产品在日本市场率先实现规模化销售，得益于当地市场需求和法规支持。PIX Moving通过自主研发的3D打印系统和柔性制造范式，&lt;strong>大幅缩短开发周期并降低成本&lt;/strong>，目前已推出无人零售车、清洁车等多种产品，并开始拓展中国国内市场，如与广州白云山景区合作运营无人驾驶小巴。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3280865567744130">马斯克将继续对OpenAI提起诉讼&lt;/a>&lt;/p>
+&lt;p>埃隆·马斯克的律师表示，尽管OpenAI宣布其非营利母公司将继续控制营利性业务并成为主要股东，马斯克仍计划继续对OpenAI提起诉讼。此举被外界视为OpenAI对马斯克先前诉讼的回应，旨在平息争议。马斯克作为OpenAI的联合创始人之一，此前已提起诉讼，&lt;strong>核心目标是阻止OpenAI从非营利组织向营利性公司的彻底转变&lt;/strong>，并包含其他主张。该案件的陪审团审判原定于2026年3月进行。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3280812034449796">从 &amp;lsquo;国产替代&amp;rsquo; 到 &amp;lsquo;全球竞逐&amp;rsquo;，创世纪9款新品背后的&amp;rsquo;中国智造&amp;rsquo;实力&lt;/a>&lt;/p>
+&lt;p>创世纪集团在CIMT 2025中国国际机床展上发布了9款高智能机床，展示了其在&lt;strong>AI智能控制系统和多轴联动技术&lt;/strong>方面的创新。新品包括高速钻攻中心、五轴及七轴联动加工中心等，广泛应用于新能源、3C电子、人形机器人等领域。其AI算法可实现加工参数自优化和故障自诊断，&lt;strong>将加工精度提升至微米级&lt;/strong>，并降低能耗20%-30%。公司2024年营收达46.05亿元，同比增长30.49%，研发投入持续加大，并积极拓展海外市场，展现了中国高端制造的竞争力。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3280828623659136?f=rss">「智驾」变「辅助」，亮起的不只是安全黄灯？&lt;/a>&lt;/p>
+&lt;p>智能驾驶行业正面临更严格的监管。工信部出台文件限制智驾功能宣传，L2级别不允许使用“接管”字眼，且“代客泊车”等功能审批受限。小米已将其SU7官网宣传中的“智驾”改为“辅助驾驶”。&lt;strong>智能驾驶研发成本高昂&lt;/strong>，占车企总支出38%，仅次于电池。尽管车企力推，但智驾系统在10-20万元价格带车型中渗透率不足0.2%，且纯视觉方案存在高昂的隐性成本。复杂场景下的可靠性问题使得行业扩张放缓，智驾短期内可能成为车企的负担。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/p/3231110308478083?f=rss">上海交大团队创立、已在智元机器人落地，触觉感知公司获数千万元融资&lt;/a>&lt;/p>
+&lt;p>千觉机器人科技有限公司近日完成数千万元融资，由元禾原点、戈壁创投、小苗朗程投资。该公司由上海交通大学团队创立，专注于研发&lt;strong>面向机器人精细操作的多模态触觉感知与操作技术&lt;/strong>。其核心产品包括高分辨率多模态触觉传感器G1-WS，信息感受密度达人类手指800倍，精度亚毫米级，已在智元机器人上应用。千觉机器人还发布了全球首个触觉仿真工具Xense_Sim，可提升训练模型泛化能力。融资将用于技术研发、产品迭代及加速量产交付。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3280922298261894?f=rss">茉颜携自主研发的化妆品个性化服务人工智能数字系统（AISPS）亮相数字中国建设峰会&lt;/a>&lt;/p>
+&lt;p>北京茉颜定制生物科技有限公司在第八届数字中国建设峰会上展示了其自主研发的&lt;strong>化妆品个性化服务人工智能数字系统（AISPS）&lt;/strong>。该系统结合量肤定制和分肤定制产品，亮相于国家药品监督管理局设立的“数字医药”现场体验区，并成为该体验区内“AI+化妆品”领域的代表企业，展示了AI技术在美妆个护行业的创新应用。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://36kr.com/newsflashes/3280912540377217?f=rss">小马智行与Uber达成战略合作，Robotaxi今年接入Uber平台&lt;/a>&lt;/p>
+&lt;p>小马智行（Pony.ai）与Uber宣布达成全球战略合作，&lt;strong>小马智行的Robotaxi服务及车队将于今年下半年接入Uber平台&lt;/strong>，共同推动自动驾驶技术的商业化落地。双方的合作将首先在中东市场启动，未来计划逐步扩展至更多国际市场。合作上线后，用户可通过Uber App选择由小马智行Robotaxi提供的出行服务。消息发布后，小马智行美股盘前股价一度涨超12%。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/030.htm">消息称 AI 编程工具 Cursor 开发商 Anysphere 完成 9 亿美元融资，估值达 90 亿美元&lt;/a>&lt;/p>
+&lt;p>据《金融时报》报道，AI编程工具Cursor的开发商Anysphere已完成一轮高达&lt;strong>9亿美元的融资，公司估值达到约90亿美元&lt;/strong>。此轮融资由Thrive Capital领投，Andreessen Horowitz (a16z) 和Accel等知名机构参投。Anysphere的累计融资金额已超过1.73亿美元。AI编程工具赛道竞争激烈，其竞争对手Windsurf（原Codeium）也传出融资消息，OpenAI（Anysphere的投资方之一）甚至曾有意收购Windsurf。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/026.htm">Kimi 长思考模型 API 发布&lt;/a>&lt;/p>
+&lt;p>月之暗面公司今日宣布，其&lt;strong>Kimi长思考模型API（kimi-thinking-preview）正式发布&lt;/strong>。该模型具备多模态推理能力和通用推理能力，尤其擅长深度推理。用户可通过更换模型名称或使用OpenAI SDK来调用。目前该API仍处于预览阶段，存在一些限制，如&lt;strong>不支持工具调用（ToolCalls）、联网搜索、JSON Mode、Partial模式及Context Caching&lt;/strong>。强行启用这些特性可能导致非预期输出。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ithome.com/0/851/022.htm">Recraft 完成 3000 万美元 B 轮融资，其图像生成模型曾击败 DALL-E 和 Midjourney&lt;/a>&lt;/p>
+&lt;p>图像生成初创公司Recraft宣布完成&lt;strong>3000万美元B轮融资&lt;/strong>，由Accel领投，Khosla Ventures和Madrona参投。该公司年化经常性收入已超500万美元，拥有400万用户。其图像生成模型“red_panda”曾在Artificial Analysis基准测试中&lt;strong>超越OpenAI的DALL-E和Midjourney&lt;/strong>。Recraft的AI技术特别擅长为品牌生成图像，能精准放置品牌标识并生成符合品牌指南的营销材料，与Canva等工具形成一定竞争。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;p>今天的动态不少，有几个点值得深思。首先，&lt;strong>资本对AI工具链的热情不减&lt;/strong>，Anysphere和Recraft的融资额度说明市场对底层生产力工具的期待。但这种高估值背后，需要警惕泡沫，更要看实际技术壁垒和商业模式的持续性。其次，&lt;strong>智能驾驶的‘降温’在意料之中&lt;/strong>。“辅助”二字点明了当前技术的边界，也给行业敲响警钟，安全和用户信任是不可逾越的红线，L2到L3/L4的鸿沟远比想象的深。Kimi这类长文本、多模态模型的API开放是好事，但&lt;strong>真正的挑战在于如何将这些‘能力’转化为可靠、可控、可规模化的‘产品’&lt;/strong>。机器人领域，无论是PIX Moving的出海，还是千觉的触觉感知，都指向一个趋势：&lt;strong>AI正在从云端走向边缘，从虚拟走向物理&lt;/strong>，这需要更强的软硬一体化能力和对特定场景的深度理解。总体看，AI的浪潮依旧汹涌，但大浪淘沙，最终能沉淀下来的，必然是那些解决了真实痛点、构建了坚实护城河的企业。&lt;/p></description></item></channel></rss>
